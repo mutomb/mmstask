@@ -9,5 +9,5 @@ const reportWebVitals = onPerfEntry => {
     });
   }
 };
-
+// helps with cashing of of files so that it provides a better user experience
 export default reportWebVitals;
